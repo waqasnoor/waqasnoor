@@ -10,7 +10,7 @@ Currently, I am looking to collaborate on open source projects.
 
 If you have any intresting open source idea or even if you want to discuss technology or just wanna grab a Virtual Coffee, Please reach me on Twitter, LinkedIn Or Email.
 
-[![LinkedIn](/icons/linkedin.svg)](https://www.linkedin.com/in/waqas-noor) [![Twitter](/icons/twitter.svg)](https://www.linkedin.com/in/waqas-noor) [![Email](/icons/email.svg)](mailto:waqasn2c@gmail.com)
+[![LinkedIn](/icons/linkedin.svg =32x)](https://www.linkedin.com/in/waqas-noor) [![Twitter](/icons/twitter.svg =32x)](https://www.linkedin.com/in/waqas-noor) [![Email](/icons/email.svg =32x)](mailto:waqasn2c@gmail.com)
 
 ![Waqas Noor's github stats](https://github-readme-stats.vercel.app/api?username=waqasnoor)
 
