@@ -6,6 +6,8 @@ I am Software Engineer at [@Quixel Pakistan](https://github.com/Quixel).I am hel
 
 Currently, I am looking to collaborate on open source projects.
 
+![Waqas Noor's github stats](https://github-readme-stats.vercel.app/api?username=waqasnoor)
+
 ## Get in touch
 
 If you have any intresting open source idea or even if you want to discuss technology or just wanna grab a Virtual Coffee, Please reach me on Twitter, LinkedIn Or Email.
@@ -13,8 +15,6 @@ If you have any intresting open source idea or even if you want to discuss techn
 <a href="https://www.linkedin.com/in/waqas-noor" target="_blank"><img src="/icons/linkedin.svg" height="32" width="32" /></a>
 <a href="https://twitter.com/waqasnyousafzai" target="_blank"><img src="/icons/twitter.svg" height="32" width="32" /></a>
 <a href="mailto:waqasn2c@gmail.com" target="_blank"><img src="/icons/email.svg" height="32" width="32" /></a>
-
-![Waqas Noor's github stats](https://github-readme-stats.vercel.app/api?username=waqasnoor)
 
 Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
