@@ -2,11 +2,13 @@
 
 ## ABOUT ME
 
-I am Software Engineer at [@Quixel Pakistan](https://github.com/Quixel).I am helping artists ship quality photogrammetry assets from Scouting to [Megascans Library](https://megascans.se/). I work with Node.js, AWS and React.js. I love to explore new technologies.
+I am Senior Software Engineer at [@foobar Agency](https://github.com/foobaragency).I make awsome stuff using React.js, Node.js, Next.js, AWS, Contentful, MongoDB
 
 Currently, I am looking to collaborate on open source projects.
 
-![Waqas Noor's github stats](https://github-readme-stats.vercel.app/api?username=waqasnoor)
+<!--
+- ![Waqas Noor's github stats](https://github-readme-stats.vercel.app/api?username=waqasnoor)
+-->
 
 ## Get in touch
 
